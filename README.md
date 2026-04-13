@@ -1,2 +1,2 @@
-added featues #1
+added featues
 and fixed bug
